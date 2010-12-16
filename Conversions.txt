@@ -1,0 +1,12 @@
+Volume by US Units:
+    3 teaspoons     ==  1 tablespoon
+    2 tablespoons   ==  1 fluid ounce
+    1 shot          ==  1 fluid ounce
+    8 fluid ounces  ==  1 cup
+    2 cups          ==  1 pint
+    4 quarts        ==  1 gallon
+    4 gallons       ==  1 bucket
+    2 buckets       ==  1 bushel
+ 15.5 gallons       ==  1 keg
+
+
