@@ -1,6 +1,7 @@
 US Units (Volume):
     3 teaspoons     ==  1 tablespoon
     2 tablespoons   ==  1 fluid ounce
+    4 tablespoons   ==  1/4 cup
     1 shot          ==  1 fluid ounce
     8 fluid ounces  ==  1 cup
     2 cups          ==  1 pint
@@ -17,4 +18,6 @@ US Units (Mass):
    16 ounces        ==  1 pound
   100 pounds        ==  1 hundredweight
  2000 pounds        ==  1 short ton
+ 2204.62 pounds     ==  1 metric ton
+ 2240 pounds        ==  1 long ton
 
