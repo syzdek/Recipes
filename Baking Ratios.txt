@@ -36,6 +36,13 @@
 | Popover     | 1 |   | 2 | 1 |   | no baking powder                         |
 +-------------+---+---+---+---+---+------------------------------------------+
 
+Key:
+   Flr - Flour
+   Fat - Butter, lard, oil, shortening, etc
+   Liq - Milk, water, etc
+   Egg - Egg
+   Sug - Sugar
+
 
 Sources:
    http://lifehacker.com/how-to-free-yourself-from-recipes-with-a-few-golden-coo-1450617561
