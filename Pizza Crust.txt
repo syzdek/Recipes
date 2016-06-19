@@ -1,9 +1,9 @@
-QUick Pizza Crust
+Quick Pizza Crust
 (http://allrecipes.com/recipe/quick-and-easy-pizza-crust/)
 
 Ingredients:
    2 1/4 tsp active dry yeast (1/4 ounce package)
-   1 tsp     sugar
+   1 tsp     sugar (or 1 Tbl honey)
    1 cup     warm water (100F/45C)
    2 1/2 cup bread flour
    2 Tbl     olive oil
@@ -22,8 +22,18 @@ Directions:
 
 Variations:
 
+   Thin Crust:
+      1) Prepare dough as above.
+      2) Roll dough into thin rounds, transfer to lightly greased pizza pan, 
+         and add thin layer of sauce.
+      3) Par-Bake for 5 minutes at 500 degrees F.
+      4) Remove from oven and add remaining toppings (avoid toppings which
+         release juice).
+      5) Finish baking for 10 minutes at 500 degrees F.
+      
    Bread Sticks:
       Roll out dough to a thickness of about 1/2 inch.  Use a pizza cutter to
       slice the down into 1/2 inch strips, but do not seperate the strips. Bake
       for 10-15 minutes until golden brown. Brush with melted butter and add
       garlic/onion powder/grated parmesan cheese if desired.
+
