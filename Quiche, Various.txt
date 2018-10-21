@@ -1,29 +1,93 @@
-Quiche - Mushroom
+Quiche (various)
 
 
-Ingredients:
-                      1               2               4
-                  ---------       ---------       ---------
-   mushroom       1 #             2 #             4 #
-   onion          1               2               4
-   salt           1/2 tsp         1 tsp           2 tsp
-   pepper         1/2 tsp         1 tsp           2 tsp
-   thyme          1/4 tsp         1/2 tsp         1 tsp
-   -------
-   milk           1 1/2 cup       3 cup           6 cup
-   hvy. cream     1/2 cup         1 cup           2 cup
-   eggs           8               16              32
-   sour cream     3/4 cup         1 1/2 cup       3 cup
+Custard
+=======
+
+Custard Ingredients:
+                      1               2               3               4
+                  ---------       ---------       ---------       ---------
+   milk           1 1/2 cup       3 cup           4 1/2 cup       6 cup
+   hvy. cream     1/2 cup         1 cup           1 1/2 cup       2 cup
+   eggs           8               16              24              32
+   sour cream     3/4 cup         1 1/2 cup       2 1/4 cup       3 cup
+
+Directions:
+   1) Prepare quiche filling (see below).
+   2) Mix the custard ingredients using a whisk.
+   3) In quiche baking pan, add half of the cheese, the quiche filling, half of
+      the custard, the rest of the cheese, and rest of custard.  Stir up
+      ingredients so that the filling (vegetables, bacon, etc)  are visible.
+   4) Bake at 350, 70-95 minutes until golden brown.
+
+
+
+Mushroom Quiche
+===============
+
+Filling Ingredients:
+                      1               2               3               4
+                  ---------       ---------       ---------       ---------
+   mushroom       1 #             2 #             3 #             4 #
+   onion          1               2               3               4
+   salt           1/2 tsp         1 tsp           1 1/2 tsp       2 tsp
+   pepper         1/2 tsp         1 tsp           1 1/2 tsp       2 tsp
+   thyme          1/4 tsp         1/2 tsp         3/4 tsp         1 tsp
    ------
-   swiss          12 oz.          24 oz.          48 oz.
+   swiss          12 oz.          24 oz.          36 oz.          48 oz.
 
 Directions:
    1) Use a little butter to coat the bagel pot and saute the mushrooms and
       onion low & slow until somewhat carmelized.
    2) Scrape into a colander to allow them to drain.
    3) Add spices.
-   4) Mix the custard ingredients using a whisk.
-   5) Add half of the cheese, half of the custard, the rest of the cheese,
-      and rest of custard.  Stir up ingredients so that mushrooms are visible.
-   6) Bake at 350, 70-95 minutes until golden brown.
+   4) Prepare custard and quiche as stated in custard directions.
+
+
+
+Broccoli Cheddar Quiche
+=======================
+
+Filling Ingredients:
+                      1               2               3               4
+                  ---------       ---------       ---------       ---------
+   mushroom       1 #             2 #             3 #             4 #
+   cheddar        12 oz.          24 oz.          36 oz.          48 oz.
+   ------
+   black pepper   1 tsp           2 tsp           3 tsp           4 tsp
+   chives, dried  1 tbl           2 tbl           3 tbl           4 tbl
+   salt           1 tsp           2 tsp           3 tsp           4 tsp
+
+Directions:
+   1) Grate cheddar.
+   2) Fill quiche baking pan with broccoli and sprinkle shredded chaddar on
+      top of broccoli.
+   3) Mix the custard ingredients using a whisk.
+   4) Add pepper, chives, and salt to custard and whisk to mix.
+   5) Pour custard evenly over broccoli and cheddar.
+   6) Bake at 350, 80-120 minutes until golden brown.
+
+
+
+Quiche Lorraine
+===============
+
+Filling Ingredients:
+                      1               2               3               4
+                  ---------       ---------       ---------       ---------
+   bacon          1 lb            2 lb            3 lb            4 lb
+   cheddar        12 oz.          24 oz.          36 oz.          48 oz.
+
+Directions:
+   1) Lay bacon in strips on cookie sheet covered in foil.  Bake at 400 degrees
+      for 10 to 15 minuts until bacon is dark and crispy.
+   2) Remove bacon from pan and let cool on paper towel or rack.
+   3) Crumble bacon and mix with shredded cheddar.
+   1) Prepare custard and quiche as stated in custard directions.
+
+
+
+Notes
+=====
+
 
