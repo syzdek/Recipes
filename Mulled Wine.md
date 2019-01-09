@@ -1,21 +1,17 @@
 Mulled Wine
-===========
-
-Ingredients
------------
-
-      750 ml   bottle red wine (1 bottle, Barefoot Cabernet Sauvignon)
-        1 ---  orange, whole (or 2 clementines)
-        6 ---  cloves, whole
-        3 ---  cinnamon sticks
-        3 ---  star anise (or 2 tsp of anise seeds)
-      1/4 cup  honey
-      1/2 cup  brandy (St-Rémy V.S.O.P.)
 
 
-Directions
-----------
+Ingredients:
+     750 ml   bottle red wine (1 bottle, Barefoot Cabernet Sauvignon)
+       1 ---  orange, whole (or 2 clementines)
+       6 ---  cloves, whole
+       3 ---  cinnamon sticks
+       3 ---  star anise (or 2 tsp of anise seeds)
+     1/4 cup  honey
+     1/2 cup  brandy (St-Rémy V.S.O.P.)
 
+
+Directions:
    1. Slice orange/clementines into rounds and push cloves into slices.
    2. Combine wine, brandy, and honey in sauce pan.  Add oranges, cinnamon
       sticks, and star anise.
@@ -24,15 +20,11 @@ Directions
    5. Serve warm garnished with orange slices or cinnamon sticks.
    
 
-Notes
------
-
+Notes:
    * Anise star will have stronger flavor than anise seed.
    * Anise seed and cinnamon sticks can be used for a second batch of wine.
 
 
-Original Source
----------------
-
-   * https://www.delish.com/cooking/recipe-ideas/a23364385/mulled-wine-recipe/
+Original Source:
+   https://www.delish.com/cooking/recipe-ideas/a23364385/mulled-wine-recipe/
 
