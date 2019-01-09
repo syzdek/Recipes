@@ -12,17 +12,17 @@ Ingredients:
 
 
 Directions:
-   1. Slice orange/clementines into rounds and push cloves into slices.
-   2. Combine wine, brandy, and honey in sauce pan.  Add oranges, cinnamon
+   1) Slice orange/clementines into rounds and push cloves into slices.
+   2) Combine wine, brandy, and honey in sauce pan.  Add oranges, cinnamon
       sticks, and star anise.
-   3. Bring wine to a simmer (do not boil the wine).
-   4. Reduce heat to low and keep wine at a light simmer for 10 - 60 minutes.
-   5. Serve warm garnished with orange slices or cinnamon sticks.
+   3) Bring wine to a simmer (do not boil the wine).
+   4) Reduce heat to low and keep wine at a light simmer for 10 - 60 minutes.
+   5) Serve warm garnished with orange slices or cinnamon sticks.
    
 
 Notes:
-   * Anise star will have stronger flavor than anise seed.
-   * Anise seed and cinnamon sticks can be used for a second batch of wine.
+    * Anise star will have stronger flavor than anise seed.
+    * Anise seed and cinnamon sticks can be used for a second batch of wine.
 
 
 Original Source:
