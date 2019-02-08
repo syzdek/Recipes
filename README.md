@@ -81,3 +81,16 @@ Baking Ratios by Weight
          Egg - Egg
          Sug - Sugar
 
+
+Substitutions
+=============
+
+Substitute Honey for Granulated Sugar
+-------------------------------------
+
+   * 1/2 to 3/4 cup of honey for every 1 cup of sugar
+   * For every 1 cup of substituted honey, reduce other total liquids by 1/4 cup
+   * For every 1 cup of substituted honey, Add 1/4 teaspoon baking soda
+   * Reduce baking temperature by 25 degrees F.
+
+
