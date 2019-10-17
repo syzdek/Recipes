@@ -5,12 +5,12 @@ Custard
 =======
 
 Custard Ingredients:
-                      1               2               3               4
-                  ---------       ---------       ---------       ---------
-   milk           1 1/2 cup       3 cup           4 1/2 cup       6 cup
-   hvy. cream     1/2 cup         1 cup           1 1/2 cup       2 cup
-   eggs           8               16              24              32
-   sour cream     3/4 cup         1 1/2 cup       2 1/4 cup       3 cup
+                      1           1.5*          2            3            4
+                  ---------    ---------    ---------    ---------    ---------
+   milk           1 1/2 cup    2 1/4 cup    3 cup        4 1/2 cup    6 cup
+   hvy. cream     1/2 cup      3/4 cup      1 cup        1 1/2 cup    2 cup
+   eggs           8            12           16           24           32
+   sour cream     3/4 cup      1 1/8 cup    1 1/2 cup    2 1/4 cup    3 cup
 
 Directions:
    1) Prepare quiche filling (see below).
@@ -21,20 +21,19 @@ Directions:
    4) Bake at 350, 70-95 minutes until golden brown.
 
 
-
 Mushroom Quiche
 ===============
 
 Filling Ingredients:
-                      1               2               3               4
-                  ---------       ---------       ---------       ---------
-   mushroom       1 #             2 #             3 #             4 #
-   onion          1               2               3               4
-   salt           1/2 tsp         1 tsp           1 1/2 tsp       2 tsp
-   pepper         1/2 tsp         1 tsp           1 1/2 tsp       2 tsp
-   thyme          1/4 tsp         1/2 tsp         3/4 tsp         1 tsp
+                      1           1.5           2            3            4
+                  ---------    ---------    ---------    ---------    ---------
+   mushroom       1 #          1 1/2 #      2 #          3 #          4 #
+   onion          1            1 1/2        2            3            4
+   salt           1/2 tsp      3/4 tsp      1 tsp        1 1/2 tsp    2 tsp
+   pepper         1/2 tsp      3/4 tsp      1 tsp        1 1/2 tsp    2 tsp
+   thyme          1/4 tsp      3/8 tsp      1/2 tsp      3/4 tsp      1 tsp
    ------
-   swiss          12 oz.          24 oz.          36 oz.          48 oz.
+   swiss          12 oz.       18 oz.       24 oz.       36 oz.       48 oz.
 
 Directions:
    1) Use a little butter to coat the bagel pot and saute the mushrooms and
@@ -49,14 +48,14 @@ Broccoli Cheddar Quiche
 =======================
 
 Filling Ingredients:
-                      1               2               3               4
-                  ---------       ---------       ---------       ---------
-   mushroom       1 #             2 #             3 #             4 #
-   cheddar        12 oz.          24 oz.          36 oz.          48 oz.
+                      1           1.5           2            3            4
+                  ---------    ---------    ---------    ---------    ---------
+   broccoli       1 #          1 1/2 #      2 #          3 #          4 #
+   cheddar        12 oz.       18 oz.       24 oz.       36 oz.       48 oz.
    ------
-   black pepper   1 tsp           2 tsp           3 tsp           4 tsp
-   chives, dried  1 tbl           2 tbl           3 tbl           4 tbl
-   salt           1 tsp           2 tsp           3 tsp           4 tsp
+   black pepper   1 tsp        1 1/2 tsp    2 tsp        3 tsp        4 tsp
+   chives, dried  1 tbl        1 1/2 tsp    2 tbl        3 tbl        4 tbl
+   salt           1 tsp        1 1/2 tsp    2 tsp        3 tsp        4 tsp
 
 Directions:
    1) Grate cheddar.
@@ -73,10 +72,10 @@ Quiche Lorraine
 ===============
 
 Filling Ingredients:
-                      1               2               3               4
-                  ---------       ---------       ---------       ---------
-   bacon          1 lb            2 lb            3 lb            4 lb
-   cheddar        12 oz.          24 oz.          36 oz.          48 oz.
+                      1           1.5           2            3            4
+                  ---------    ---------    ---------    ---------    ---------
+   bacon          1 lb         1 1/2 lb     2 lb         3 lb         4 lb
+   cheddar        12 oz.       18 oz.       24 oz.       36 oz.       48 oz.
 
 Directions:
    1) Lay bacon in strips on cookie sheet covered in foil.  Bake at 400 degrees
@@ -86,8 +85,30 @@ Directions:
    1) Prepare custard and quiche as stated in custard directions.
 
 
+Quiche Florentine
+=================
+
+Filling Ingredients:
+                      1           1.5           2            3            4
+                  ---------    ---------    ---------    ---------    ---------
+   black pepper   1 tsp        1 1/2 tsp    2 tsp        3 tsp        4 tsp
+   salt           1 tsp        1 1/2 tsp    2 tsp        3 tsp        4 tsp
+   ------
+   spinach        8 oz.        12 oz.       16 oz.       24 oz.       32 oz.
+   onion, dried   2 tbl        3 tbl        4 tbl        6 tbl        8 tbl
+   swiss          12 oz.       18 oz.       24 oz.       36 oz.       48 oz.
+
+Directions:
+   1) Use a little butter to coat the bagel pot and saute onion until
+      translucent.  Add spinach and saute until wilted.
+   2) Sprinkle grated swiss cheese, onions, and spinach in pie crust.
+   
+   3) Combine custard, black pepper, and salt in bowl. Whisk until smooth.
+   4) Prepare custard and quiche as stated in custard directions.
+
 
 Notes
 =====
 
+   * 1.5 batches fits in a deep sided 10" cast iron skillet
 
