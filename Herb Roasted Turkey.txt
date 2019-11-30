@@ -1,35 +1,48 @@
 Herb Roasted Turkey
 
 Ingredients:
-   1          whole turkey, thawed (see below)
-   2-3        medium size onions
-   1 C        butter
-   3 tbl      fresh rosemary, chopped
-   1 tbl      thyme, chopped
+       1      whole turkey, thawed (see below)
+     2-3      medium size onions
+   10-12      roasted garlic cloves
+    8-16 tbl  butter
+       3 tbl  fresh rosemary, chopped
+       1      lemon, thinly sliced
 
    Brine:
-   2 gal      cold water
-   3 C        apple cider
-   2 C        brown sugar, packed
-   3/4 C      kosher salt
-   5          bay leaves
-   5          cloves of garlic
-   3          oranges, cut into strips
-   4          fresh rosemary sprigs,
+       2 gal  cold water
+       3 cup  apple cider
+       2 cup  brown sugar, packed
+     3/4 cup  kosher salt
+       5      bay leaves
+       5      cloves of garlic
+       3      oranges, cut into strips
+       4      fresh rosemary sprigs,
 
 Directions:
 
    Thaw turkey if frozen (see table below) and optionally brine turkey.
 
+   Remove turkey from refrigerator an hour before cooking.
+
    Preheat oven to 275 F.
 
+   Melt butter in bowl.  Mash roasted garlic with a fork. Mix butter, garlic,
+   and rosemary in the bowl.  Set aside.
+
    Rinse turkey well in cold running water. Pat turky dry. Peel and quarter
-   onions, insert onion quarters into turkey's cavity. Truss the turkey and
-   place on a roasting rack in the roasting pan. Coverpan with either lid or
-   heavy foi so that it is sealed.
+   onions, insert onion quarters into turkey's cavity. Separate skin from meat
+   on breast. Rub salt and pepper into the meat.  Use toothpicks to pin the
+   skin back into place.  Truss the turkey and place on a roasting rack in the
+   roasting pan. Slather butter mixture over skin of turkey. Cover turkey with
+   think slices of lemon. Cover pan with either lid or heavy foil so that it is
+   sealed.
 
    Place turkey on lower rack so turkey is centered in oven. Roast turkey at
-   275 F for about 10 minutes per pound of turkey (see table below).
+
+
+   * 175 F for about 1 hour per pound of turkey.
+   * 225 F for about 30 minutes per pound of turkey
+   * 275 F for about 10 minutes per pound of turkey (see table below).
 
 
 Tables:
@@ -70,7 +83,41 @@ Tables:
    +---------------+-----------------+-----------------+--------------+
    * at 275 F for about 10 minutes per pound of turkey.
    * at 350 F for about 7-8 minutes per pound of turkey.
-   * Turkey is done when meat therometer reads 170F to 175F.
+   * Turkey is done when meat therometer reads 165F to 170F.
+
+
+Notes:
+
+   2019 Thanksgiving (26lb Turkey)
+   -------------------------------
+
+   Oven Settings:
+   03:00 @ 175 F
+   03:20 @ 190 F
+   03:30 @ 450 F
+   04:30 @ 225 F
+   13:00 @ 275 F (increased to ensure done by 16:00)
+   14:00 @ 225 F
+   15:03 @ Lo Broil
+   15:10 @ Removed and resting
+
+   Thermometer Readings:
+   145 F @ 11:23
+   149 F @ 12:00
+   154 F @ 13:00
+   156 F @ 13:30
+   159 F @ 14:00
+   166 F @ 15:01
+   167 F @ 15:10
+
+   Result:
+   * Broiling burned skin on top of Turkey (try roasting @ 400 uncovered for
+     last 30 minutes to make skin golden instead of broiling.
+   * Breast meat was done and very moist.
+
+   Next Attempt Reminder:
+   * Try baking at 175 F for about 1 hour per pound (i.e. overnight)
+   * Do not sear turkey in beginning, brown skin at end of cooking.
 
 
 Source: 
