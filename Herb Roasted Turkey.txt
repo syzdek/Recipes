@@ -55,17 +55,18 @@ Tables:
    +---------------+-----------------+-----------------+--------------+
    |  Turkey Size  |  Time at 275 F  |  Time at 350 F  |  Total Time  |
    +---------------+-----------------+-----------------+--------------+
-   |     4 lbs     |    0:40 hours   |    0:28 hours   |
-   |     6 lbs     |    1:00 hours   |    0:42 hours   |
-   |     8 lbs     |    1:20 hours   |    0:56 hours   |
-   |    10 lbs     |    1:40 hours   |    1:10 hours   |
-   |    12 lbs     |    2:00 hours   |    1:24 hours   |
-   |    14 lbs     |    2:20 hours   |    1:38 hours   |
-   |    16 lbs     |    2:40 hours   |    1:52 hours   |
-   |    18 lbs     |    3:00 hours   |    2:06 hours   |
-   |    20 lbs     |    3:20 hours   |    2:20 hours   |
-   |    22 lbs     |    3:40 hours   |    2:34 hours   |
-   |    24 lbs     |    4:00 hours   |    2:48 hours   |
+   |     4 lbs     |    0:40 hours   |    0:28 hours   |  1:08 hours  |
+   |     6 lbs     |    1:00 hours   |    0:42 hours   |  1:42 hours  |
+   |     8 lbs     |    1:20 hours   |    0:56 hours   |  2:16 hours  |
+   |    10 lbs     |    1:40 hours   |    1:10 hours   |  2:50 hours  |
+   |    12 lbs     |    2:00 hours   |    1:24 hours   |  3:24 hours  |
+   |    14 lbs     |    2:20 hours   |    1:38 hours   |  3:58 hours  |
+   |    16 lbs     |    2:40 hours   |    1:52 hours   |  4:32 hours  |
+   |    18 lbs     |    3:00 hours   |    2:06 hours   |  5:06 hours  |
+   |    20 lbs     |    3:20 hours   |    2:20 hours   |  5:40 hours  |
+   |    22 lbs     |    3:40 hours   |    2:34 hours   |  6:14 hours  |
+   |    24 lbs     |    4:00 hours   |    2:48 hours   |  6:48 hours  |
+   |    26 lbs     |    4:20 hours   |    2:55 hours   |  7:05 hours  |
    +---------------+-----------------+-----------------+--------------+
    * at 275 F for about 10 minutes per pound of turkey.
    * at 350 F for about 7-8 minutes per pound of turkey.
