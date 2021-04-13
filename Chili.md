@@ -9,6 +9,7 @@ Ingredients
         2 ---  small onion, chopped
        10 ---  garlic cloves, minced
         2 lb   ground beef
+        3 cup  water
        16 oz   tomato paste
         2 tbl  chili powder
         2 tbl  paprika
