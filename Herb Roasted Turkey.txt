@@ -88,6 +88,43 @@ Tables:
 
 Notes:
 
+   2021 Thanksgiving (24lb Turkey)
+   -------------------------------
+
+   Thermometer Readings:
+   18:00 -  38 F @ 175 F (put turkey in oven)
+   19:16 -  48 F @ 175 F
+   20:17 -  57 F @ 175 F
+   21:11 -  65 F @ 175 F
+   22:15 -  75 F @ 175 F
+   06:38 - 127 F @ 175 F (oven shutoff ~06:00)
+   07:06 - 128 F @ 175 F
+   08:09 - 130 F @ 175 F
+   09:34 - 132 F @ 175 F
+   10:05 - 133 F @ 175 F
+   10:08 - ----- @ 200 F (increased oven temp)
+   11:50 - 137 F @ 200 F
+   12:06 - 138 F @ 200 F
+           ----- @ 225 F (increased oven temp)
+   13:13 - 141 F @ 225 F
+   14:00 - 144 F @ 225 F
+   15:00 - 147 F @ 225 F
+           ----- @ 400 F (increased oven temp)
+           ----- @ 400 F (remvoved foil)
+   15:20 - 150 F @ 400 F
+   15:40 - 161 F @ 400 F
+   15:48 - 165 F @ 400 F
+           ----- @ ----- (removed from oven)
+
+   Result:
+   * slightly burned on top of turkey
+
+   Next Attempt Suggestions:
+   * start oven at 200 F and plan for 1 hour per pound
+   * increase temp to 400 F after reaching 155 F
+   * slather butter before increasing temp to 400 F
+
+
    2019 Thanksgiving (26lb Turkey)
    -------------------------------
 
