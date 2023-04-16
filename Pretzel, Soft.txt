@@ -4,11 +4,11 @@ Ingredients:
    Dough:
    1 1/2 C    warm water
    2 1/4 tsp  active dry yeast
-   2 tbl      brown sugar
+       2 tbl  brown sugar
    1 1/8 tsp  salt
-   2 tbl      butter
-   1 C        bread flour
-   3 C        regular flour
+       2 tbl  butter
+       1 C    bread flour
+       3 C    regular flour
 
        x1            x2            x4            x6
    ----------    ----------    ----------    ----------
