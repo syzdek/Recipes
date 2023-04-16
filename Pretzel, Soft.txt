@@ -3,9 +3,9 @@ Soft Pretzel
 Ingredients:
    Dough:
    1 1/2 cup  warm water
-   2 1/4 tsp  active dry yeast
        2 tbl  brown sugar
    1 1/8 tsp  salt
+   2 1/4 tsp  active dry yeast
        2 tbl  butter
        1 cup  bread flour
        3 cup  regular flour
@@ -13,9 +13,9 @@ Ingredients:
        x1            x2            x4            x6
    ----------    ----------    ----------    ----------
     1 1/2 cup         3 cup         6 cup         9 cup  warm water
-    2 1/4 tsp     4 1/2 tsp         5 tsp    12 1/2 tsp  active dry yeast
         2 tbl       1/4 cup       1/2 cup       3/4 cup  brown sugar
     1 1/8 tsp     2 1/4 tsp     4 1/2 tsp     6 3/4 tsp  salt
+    2 1/4 tsp     4 1/2 tsp         5 tsp    12 1/2 tsp  active dry yeast
         2 tbl         4 tbl         8 tbl        12 tbl  butter
         4 cup         8 cup        16 cup        24 cup  flour
 
