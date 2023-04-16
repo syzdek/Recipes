@@ -10,6 +10,15 @@ Ingredients:
    1 C        bread flour
    3 C        regular flour
 
+       x1            x2            x4            x6
+   ----------    ----------    ----------    ----------
+    1 1/2 cup         3 cup         6 cup         9 cup  warm water
+    2 1/4 tsp     4 1/2 tsp         5 tsp    12 1/2 tsp  active dry yeast
+        2 tbl       1/4 cup       1/2 cup       3/4 cup  brown sugar
+    1 1/8 tsp     2 1/4 tsp     4 1/2 tsp     6 3/4 tsp  salt
+        2 tbl         4 tbl         8 tbl        12 tbl  butter
+        4 cup         8 cup        16 cup        24 cup  flour
+
    Bath:
    2 C        warm water
    2 tbl      baking soda
