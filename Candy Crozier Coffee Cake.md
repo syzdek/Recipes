@@ -16,10 +16,12 @@ Cake Ingredients
     1 1/2 cup  finely chopped dried apricots
     1 1/2 cup  finely chopped drained maraschino cherries
 
+
 Icing
 -----
        2 cup  confectioners' sugar
       ~2 tbl  water
+
 
 Directions
 ----------
@@ -48,23 +50,15 @@ Directions
       Sugar Icing.
   19. Decorate with halves of cherries.
 
+
 Icing
 -----
    1. Blend confectioners' sugar and water. If glaze is too stiff, add a few drops of water.
 
 
-   2) Beat the eggs in a large bowl. Mix in the brown sugar, white sugar, salt,
-      cinnamon, ground ginger, nutmeg, ground cloves, cardamom, and lemon zest.
-   3) Mix in the pumpkin purée. Stir in the cream. Beat together until
-       everything is well mixed.  Pour the filling into an uncooked pie shell.
-   4) Bake at a high temperature of 425°F for 15 minutes.
-   5) Lower the temperature to 350°F. Bake for 45 to 55 minutes more, or until
-      a knife inserted in the center comes out clean. 
-   6) Cool the pumpkin pie on a wire rack for 2 hours. 
-
-
 Notes
 -----
+
 
 Original Source
 ---------------
