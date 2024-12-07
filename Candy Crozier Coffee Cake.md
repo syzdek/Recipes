@@ -17,14 +17,14 @@ Cake Ingredients
     1 1/2 cup  finely chopped drained maraschino cherries
 
 
-Icing
------
+Icing Ingredients
+-----------------
        2 cup  confectioners' sugar
       ~2 tbl  water
 
 
-Directions
-----------
+Cake Directions
+---------------
    1. Heat sour cream over low heat just until lukewarm.
    2. In large mixing bowl dissolve yeast in water.
    3. Add warm sour cream, butter, sugar, salt, eggs and 2 cups of flour
@@ -51,8 +51,8 @@ Directions
   19. Decorate with halves of cherries.
 
 
-Icing
------
+Icing Directions
+----------------
    1. Blend confectioners' sugar and water. If glaze is too stiff, add a few drops of water.
 
 
