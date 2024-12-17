@@ -16,10 +16,10 @@ Ingredients
 
 Liquor Variations:
 
-                   none      normal      heavy
-                  -------    -------    -------
-   liquor         none       1/2 cup      1 cup
-   hvy. cream     1/4 cup    1/2 cup    3/4 cup
+                    none      normal      heavy
+                   -------    -------    -------
+    liquor         none       1/2 cup      1 cup
+    hvy. cream     1/4 cup    1/2 cup    3/4 cup
 
 
 Directions:
